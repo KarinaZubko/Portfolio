@@ -1,8 +1,3 @@
-# PORTFOLIO
-
-Hello everyone! My name is Karyna Zubko.
-
-
 
 # PORTFOLIO
 <p align="center">
