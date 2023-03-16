@@ -49,3 +49,18 @@ In this project, machine learning and deep learning algorithms are used to predi
 
 February, 2023
 <hr>
+
+### [E-Commerce Shipping Prediction](https://github.com/KarinaZubko/Portfolio/blob/main/E_Commerce_Shipping/Prediction.ipynb)
+
+
+<p>
+This shipment tracking data will instantly answer the next questions:
+
+1 - What was the customer rating? Was the product delivered on time?
+2 - Does it respond to the customer's request?
+3 - If the importance of the product is high, does it have the highest rating, was it delivered on time?
+ </p>
+
+
+February, 2023
+<hr>
