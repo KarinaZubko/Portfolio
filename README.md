@@ -40,15 +40,14 @@ Hello everyone! My name is Karyna Zubko.
 
 <p>
 In this project, machine learning and deep learning algorithms are used to predict employee attrition. The following steps were taken:
-  <p>
+<br>
 1. Including necessary libraries and importing datasets.
-    <p>
+<br>
 2. Exploratory Data Analysis
-      <p>
+<br>
 3. Data Splitting
-        <p>
+<br>
 4. Data Modeling
-          <p>
  </p>
 
 
@@ -61,9 +60,9 @@ February, 2023
 <p>
 This shipment tracking data will instantly answer the next questions:
 
-1 - What was the customer rating? Was the product delivered on time?
-2 - Does it respond to the customer's request?
-3 - If the importance of the product is high, does it have the highest rating, was it delivered on time?
+<br> 1 - What was the customer rating? Was the product delivered on time?
+<br> 2 - Does it respond to the customer's request?
+<br> 3 - If the importance of the product is high, does it have the highest rating, was it delivered on time?
  </p>
 
 
