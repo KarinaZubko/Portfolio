@@ -40,10 +40,15 @@ Hello everyone! My name is Karyna Zubko.
 
 <p>
 In this project, machine learning and deep learning algorithms are used to predict employee attrition. The following steps were taken:
+  <p>
 1. Including necessary libraries and importing datasets.
+    <p>
 2. Exploratory Data Analysis
+      <p>
 3. Data Splitting
+        <p>
 4. Data Modeling
+          <p>
  </p>
 
 
