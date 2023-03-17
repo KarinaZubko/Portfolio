@@ -32,6 +32,25 @@ Hello everyone! My name is Karyna Zubko.
 
 
 # My Past Projects
+<hr>
+
+### [Tableau Dashboard: Sales Tracking by Regions](https://public.tableau.com/app/profile/karyna5596/viz/SalesTrackinngbyRegions/Dashboard1?publish=yes)
+
+
+<p>
+The data visualized using Tableau show us the main information about sales process in 4 regions. You can easily switch the region and work with the data brings to it. The following calculations were applied:
+<br>
+1. <em> Total Sales, Total Profit, Total Orders, Turn Over percentage <em> for the current year + <em> % of Changes<em> compared with the previous year.
+<br>
+2. <em>Daily number of Sales deals<em> for selected region
+<br>
+3. <em> Top 5 categories of Sales<em> for selected region
+<br>
+4. <em> Order Details with profit and sales calculations<em> for selected region
+ </p>
+
+
+March, 2023
 
 <hr>
 
