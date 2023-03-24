@@ -34,6 +34,23 @@ Hello everyone! My name is Karyna Zubko.
 # My Past Projects
 <hr>
 
+### [Coaster EDA](https://github.com/KarinaZubko/Portfolio/blob/main/Coaster_EDA/EDA.ipynb)
+
+
+<p>
+Exploratory Data Analysis it a necessary tool for any data scientist. The analysis run using <em>pandas&numpy</em> packages, <em>matplotlib</em>  visualisation library and <em>seaborn</em> package for plots creation. The analysis consists of:
+
+<br> 1. Data Understanding
+<br> 2. Data Preparation
+<br> 3. Plotting Feature Distributions
+<br> 4. Feature Relationships
+<br> 5. Data Insight
+ </p>
+
+
+March, 2023
+<hr>
+
 ### [Tableau Dashboard: Sales Tracking by Regions](https://public.tableau.com/app/profile/karyna5596/viz/SalesTrackinngbyRegions/Dashboard1?publish=yes)
 
 
@@ -60,7 +77,7 @@ March, 2023
 <p>
 In this project, machine learning and deep learning algorithms are used to predict employee attrition. The following steps were taken:
   
-<br> 1. Including necessary libraries and importing datasets.
+<br>1. Including necessary libraries and importing datasets.
 <br>2. Exploratory Data Analysis
 <br>3. Data Splitting
 <br>4. Data Modeling
