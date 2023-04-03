@@ -34,6 +34,33 @@ Hello everyone! My name is Karyna Zubko.
 # My Past Projects
 <hr>
 
+### [Real or Not? NLP with Disaster Tweets](https://github.com/KarinaZubko/Portfolio/blob/main/NLP/NLP_Twitter_spam_amalysis.ipynb)
+
+
+<p>
+Natural Language Processing with Disaster Tweets. Predict which Tweets are about real disasters and which ones are not. 
+Completed in terms of Kaggle Competition.
+<p>
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). During the learcing, I have been challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.
+<br> Ploty, NLP, NLTK, MatplotLib, NumPy, SKLearn, Keras
+
+The analysis consists of:
+
+<br> 1. Libraries Import
+<br> 2. Dataset Import
+<br> 3. Cleaning and filling in missing data
+<br> 4. Dataset Visualisation
+<br> 5. Vecotisation
+<br> 6. Modeling
+<br> 7. Long-short time memory networks
+<br> 8. Practical case: Dissaster Tweets
+ </p>
+
+
+April, 2023
+<hr>
+
 ### [Coaster EDA](https://github.com/KarinaZubko/Portfolio/blob/main/Coaster_EDA/EDA.ipynb)
 
 
