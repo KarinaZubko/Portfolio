@@ -43,7 +43,7 @@ Completed in terms of Kaggle Competition.
 <p>
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). During the learcing, I have been challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.
-<br> Ploty, NLP, NLTK, MatplotLib, NumPy, SKLearn, Keras
+<p> <em>Ploty, NLP, NLTK, MatplotLib, NumPy, SKLearn, Keras</em>
 
 The analysis consists of:
 
