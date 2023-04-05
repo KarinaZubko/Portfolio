@@ -2,8 +2,6 @@
 # PORTFOLIO
 <p align="center">
   
-<img src="images/DSC_0382.jpeg" height=300></p>
-  
 Hello everyone! My name is Karyna Zubko.
 
 
