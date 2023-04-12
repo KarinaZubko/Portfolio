@@ -6,7 +6,7 @@ Hello everyone! My name is Karyna Zubko.
 
 
 
-<p> I am a Business Intelligence Developer / DA, experienced in product analysis. Check my portfolio to overview more projects. I love to learn about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. </p>
+<p> I am a Business Intelligence Developer / DA, experienced in product analysis. Check my portfolio to overview more projects. I am passionate about data and knowlages about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. </p>
 
 
 
