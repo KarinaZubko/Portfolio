@@ -22,9 +22,7 @@ Hello everyone! My name is Karyna Zubko.
 <hr>
 
 
-### My Professional Experience
-  <p align="center">
-<a href="https://www.linkedin.com/in/karina-zubko/">LinkedIn</a></p>
+<a href="https://www.linkedin.com/in/karina-zubko/"> ### My Professional Experience </a>
   
   <p>For the past 2 years I have been working with the data in Casafari. I was able to get much experience in all data life-cycle, Market Research, SWOT analysis, dashboard creation, public business presentation, and business communication. Much of my work was centered around working with information to find critical cases that allow us to get new opportunities or avoid pitfalls.</p>
 
