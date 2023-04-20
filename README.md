@@ -31,6 +31,31 @@ Hello everyone! My name is Karyna Zubko.
 # My Past Projects
 <hr>
 
+### [AirBnb. Price prediction model for apparment in Lisbon](https://github.com/KarinaZubko/Portfolio/tree/main/AirBnb%20Price%20Prediction)
+
+
+<p>
+This project analyzed the factors that may have significant roles in affecting prices, which will provide comprehensive insights about Airbnb rental price valuation across the Lisbon area.
+<p>
+The prices and all info aboy listings I took from opensource [InsideAirBnb](http://insideairbnb.com/get-the-data/) website. For modeling I used Linear Regression and Multiple Regression.
+<p> <em>Ploty, MatplotLib, Seaborn, Missingno, HeatMap, NumPy, SKLearn</em>
+
+The analysis consists of:
+
+<br> 1. Data Cleaning
+<br> 2. EDA
+<br> 3. Correlation
+<br> 4. Clusterization
+<br> 5. Check numeric fields distribution
+<br> 6. Top Listing count
+<br> 7. Map Visualization (Based on Listings & Based on prices)
+<br> 8. Modeling (Linear Regression & Multiple Regression)
+ </p>
+
+
+April, 2023
+<hr>
+
 ### [Real or Not? NLP with Disaster Tweets](https://github.com/KarinaZubko/Portfolio/blob/main/NLP/NLP_Twitter_spam_amalysis.ipynb)
 
 
