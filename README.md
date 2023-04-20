@@ -37,7 +37,9 @@ Hello everyone! My name is Karyna Zubko.
 <p>
 This project analyzed the factors that may have significant roles in affecting prices, which will provide comprehensive insights about Airbnb rental price valuation across the Lisbon area.
 <p>
-The prices and all info aboy listings I took from opensource [InsideAirBnb](http://insideairbnb.com/get-the-data/) website. For modeling I used Linear Regression and Multiple Regression.
+The prices and all info aboy listings I took from opensource
+  <a href="http://insideairbnb.com/get-the-data/"> InsideAirBn </a> 
+    website. For modeling I used Linear Regression and Multiple Regression.
 <p> <em>Ploty, MatplotLib, Seaborn, Missingno, HeatMap, NumPy, SKLearn</em>
 
 The analysis consists of:
