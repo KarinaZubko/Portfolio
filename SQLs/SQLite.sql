@@ -100,3 +100,19 @@ from (
     ) as a
   WHERE
   a.rank = 1
+
+
+--RESULT: 
+--1. Paid VS Free apps. The data analysis has shown that paid apps generally achieve slightly higher ratings than their free counterparts 
+--and so this could be due to a number of reasons. The users who pay for an app may have higher engagement and perceive more value leading
+-- to better ratings. 
+-- 2.Language support. So interestingly the analysis found that apps supporting a modern number of languages between 10 and 30 at the highest average rating 
+-- and so it's not really about the quantity of the language that the app supports is more like focusing on the right languages for your app.
+-- 3. High-perforations. So there are categories like finance and book where existing apps have lower user ratings and this suggests that user 
+-- needs are not being fully met and so this can represent a market opportunity because if you can create a quality app in these categories that 
+-- addresses user needs better than the current offering there is potential for high user ratings and Market penetration.
+--4. Description length. The length of the app description has a positive correlation with the user ratings and so users likely appreciate having
+-- a clear understanding of the app's features and capabilities before they download and so a detailed well-crafted app description can set click expectations and
+-- eventually, increase the satisfaction of users then we also see in the target ratings that on average all the apps have a rating  of 3.5 and so in order to stand out from the crowd we
+-- should aim for a rating that is higher than the average 3.5 and then lastly the games and entertainment jumps so the games and entertaining category have a very high volume of apps 
+-- suggesting the market may be saturated and so entering these spaces might be challenging due to high country.
