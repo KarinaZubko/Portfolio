@@ -31,6 +31,25 @@ Hello everyone! My name is Karyna Zubko.
 # My Past Projects
 <hr>
 
+### [Tableau Dashboard: Amazon Prime Video](https://public.tableau.com/app/profile/karyna5596/viz/AmazonPrimeVideo_16910027884160/Dashboard1)
+
+
+<p>
+The data visualized using Tableau show us the main information about sales process in 4 regions. You can easily switch the region and work with the data brings to it. The following calculations were applied:
+  
+<br> 1. <em> Understanding what content is available in different countries.
+<br>
+2. <em> Identifying similar content by matching text-based features
+<br>
+3. <em> Actors / Directors</em> and find interesting insights
+<br>
+4. Does <em> Amazon Prime</em> has more focus on TV Shows than movies in recent years.
+ </p>
+
+
+August, 2023
+<hr>
+
 ### [AirBnb. Price prediction model for apparment in Lisbon](https://github.com/KarinaZubko/Portfolio/tree/main/AirBnb%20Price%20Prediction)
 
 
