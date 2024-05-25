@@ -6,7 +6,7 @@ Hello everyone! My name is Karyna Zubko.
 
 
 
-<p> I am a Business Intelligence Developer / DA, experienced in product analysis. Check my portfolio to overview more projects. I am passionate about data and knowlages about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. </p>
+<p> I am a Business Intelligence Developer & DA, experienced in product analysis. Feel free to explore my portfolio to overview more projects. I am passionate about data and knowledge about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. </p>
 
 
 
@@ -25,7 +25,7 @@ Hello everyone! My name is Karyna Zubko.
 ### My Professional Experience 
 <p align="left">
 <a href="https://www.linkedin.com/in/karina-zubko/">LinkedIn</a>
-  <p>For the past 2.5 years I have been working with the data in Casafari. I was able to get much experience in all data life-cycle, Market Research, SWOT analysis, dashboard creation, public business presentation, and business communication. Much of my work was centered around working with information to find critical cases that allow us to get new opportunities or avoid pitfalls.</p>
+  <p>For the past 2.5 years I have been working with the data in Casafari. I was able to get much experience in whole data life cycle, Market Research, SWOT analysis, dashboard creation, public business presentation, and business communication. Much of my work was centered around working with information to find critical cases that allow us to get new opportunities or avoid pitfalls.</p>
 
 
 # My Past Projects
@@ -35,7 +35,7 @@ Hello everyone! My name is Karyna Zubko.
 
 
 <p>
-The data visualized using Tableau show us the main information about sales process in 4 regions. You can easily switch the region and work with the data brings to it. The following calculations were applied:
+The data visualized using Tableau shows us the main information about the sales process in 4 regions. You can easily switch the region and work with the data brought to it. The following calculations were applied:
   
 <br> 1. <em> Understanding what content is available in different countries.
 <br>
@@ -43,22 +43,22 @@ The data visualized using Tableau show us the main information about sales proce
 <br>
 3. <em> Actors / Directors</em> and find interesting insights
 <br>
-4. Does <em> Amazon Prime</em> has more focus on TV Shows than movies in recent years.
+4. Does <em> Amazon Prime</em> have more focus on TV Shows than movies in recent years?
  </p>
 
 
 August, 2023
 <hr>
 
-### [AirBnb. Price prediction model for apparment in Lisbon](https://github.com/KarinaZubko/Portfolio/tree/main/AirBnb%20Price%20Prediction)
+### [AirBnb. Price prediction model for apartment in Lisbon](https://github.com/KarinaZubko/Portfolio/tree/main/AirBnb%20Price%20Prediction)
 
 
 <p>
 This project analyzed the factors that may have significant roles in affecting prices, which will provide comprehensive insights about Airbnb rental price valuation across the Lisbon area.
 <p>
-The prices and all info aboy listings I took from opensource
+The prices and all info about listings I took from opensource
   <a href="http://insideairbnb.com/get-the-data/"> InsideAirBn </a> 
-    website. For modeling I used Linear Regression and Multiple Regression.
+    website. For modeling, I used Linear Regression and Multiple Regression.
 <p> <em>Ploty, MatplotLib, Seaborn, Missingno, HeatMap, NumPy, SKLearn</em>
 
 The analysis consists of:
@@ -67,7 +67,7 @@ The analysis consists of:
 <br> 2. EDA
 <br> 3. Correlation
 <br> 4. Clusterization
-<br> 5. Check numeric fields distribution
+<br> 5. Check numeric field distribution
 <br> 6. Top Listing count
 <br> 7. Map Visualization (Based on Listings & Based on prices)
 <br> 8. Modeling (Linear Regression & Multiple Regression)
@@ -85,7 +85,7 @@ Natural Language Processing with Disaster Tweets. Predict which Tweets are about
 Completed in terms of Kaggle Competition.
 <p>
 Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). During the learcing, I have been challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies). During the learning, I have been challenged to build a machine learning model that predicts which Tweets are about real disasters and which ones aren’t.
 <p> <em>Ploty, NLP, NLTK, MatplotLib, NumPy, SKLearn, Keras</em>
 
 The analysis consists of:
@@ -108,7 +108,7 @@ April, 2023
 
 
 <p>
-Exploratory Data Analysis it a necessary tool for any data scientist. The analysis run using <em>pandas&numpy</em> packages, <em>matplotlib</em>  visualisation library and <em>seaborn</em> package for plots creation. The analysis consists of:
+Exploratory Data Analysis is a necessary tool for any data scientist. The analysis ran using <em>pandas&numpy</em> packages, <em>matplotlib</em>  visualization library and <em>seaborn</em> package for plots creation. The analysis consists of:
 
 <br> 1. Data Understanding
 <br> 2. Data Preparation
@@ -125,7 +125,7 @@ March, 2023
 
 
 <p>
-The data visualized using Tableau show us the main information about sales process in 4 regions. You can easily switch the region and work with the data brings to it. The following calculations were applied:
+The data visualized using Tableau shows us the main information about the sales process in 4 regions. You can easily switch the region and work with the data brings to it. The following calculations were applied:
   
 <br> 1. <em> Total Sales, Total Profit, Total Orders, Turn Over percentage </em> for the current year + <em> % of Changes</em> compared with the previous year.
 <br>
