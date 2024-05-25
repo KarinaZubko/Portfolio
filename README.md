@@ -17,7 +17,7 @@ Hello everyone! My name is Karyna Zubko.
 ### My CV
 
 <p align="center">
-<a href="https://github.com/KarinaZubko/Portfolio/blob/main/images/Zubko_Karyna_CV.pdf"><img src="images/CV_header.png"></a></p>
+<a href="https://github.com/KarinaZubko/Portfolio/blob/main/images/ZubkoKaryna_CV.pdf"><img src="images/header.png"></a></p>
 
 <hr>
 
