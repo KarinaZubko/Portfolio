@@ -14,7 +14,7 @@ Hello everyone! My name is Karyna Zubko.
 
 # Get to Know Me 
 
-### My CV
+### Click below to explore my CV
 
 <p align="center">
 <a href="https://github.com/KarinaZubko/Portfolio/blob/main/images/ZubkoKaryna_CV.pdf"><img src="images/header.png"></a></p>
