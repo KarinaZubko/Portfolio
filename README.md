@@ -74,7 +74,7 @@ The analysis consists of:
 <br> 8. Modeling (Linear Regression & Multiple Regression)
 </p>
 
-[Dataset reference](https://public.opendatasoft.com/explore/dataset/air-bnb-listings/table/?disjunctive.neighbourhood&disjunctive.column_10&disjunctive.city)
+[Dataset reference](http://insideairbnb.com/get-the-data/)
 
 April, 2023
 <hr>
