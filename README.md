@@ -44,8 +44,9 @@ The data visualized using Tableau shows us the main information about the sales 
 3. <em> Actors / Directors</em> and find interesting insights
 <br>
 4. Does <em> Amazon Prime</em> have more focus on TV Shows than movies in recent years?
- </p>
+</p>
 
+[Dataset reference](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 August, 2023
 <hr>
@@ -71,8 +72,9 @@ The analysis consists of:
 <br> 6. Top Listing count
 <br> 7. Map Visualization (Based on Listings & Based on prices)
 <br> 8. Modeling (Linear Regression & Multiple Regression)
- </p>
+</p>
 
+[Dataset reference](https://public.opendatasoft.com/explore/dataset/air-bnb-listings/table/?disjunctive.neighbourhood&disjunctive.column_10&disjunctive.city)
 
 April, 2023
 <hr>
@@ -100,6 +102,7 @@ The analysis consists of:
 <br> 8. Practical case: Dissaster Tweets
  </p>
 
+[Dataset reference](https://www.kaggle.com/code/speccco/roller-coaster-eda/input)
 
 April, 2023
 <hr>
@@ -117,6 +120,7 @@ Exploratory Data Analysis is a necessary tool for any data scientist. The analys
 <br> 5. Data Insight
  </p>
 
+[Dataset reference](https://www.kaggle.com/code/speccco/roller-coaster-eda/input)
 
 March, 2023
 <hr>
@@ -151,8 +155,8 @@ In this project, machine learning and deep learning algorithms are used to predi
 <br>2. Exploratory Data Analysis
 <br>3. Data Splitting
 <br>4. Data Modeling
- </p>
 
+[Dataset reference] (https://ieee-dataport.org/documents/ibm-hr-analytics-employee-attrition-performance)
 
 February, 2023
 <hr>
@@ -168,6 +172,7 @@ This shipment tracking data will instantly answer the next questions:
 <br> 3 - If the importance of the product is high, does it have the highest rating, was it delivered on time?
  </p>
 
+[Dataset reference] (https://www.kaggle.com/prachi13/customer-analytics)
 
 February, 2023
 <hr>
