@@ -156,7 +156,7 @@ In this project, machine learning and deep learning algorithms are used to predi
 <br>3. Data Splitting
 <br>4. Data Modeling
 
-[Dataset reference] (https://ieee-dataport.org/documents/ibm-hr-analytics-employee-attrition-performance)
+[Dataset reference](https://ieee-dataport.org/documents/ibm-hr-analytics-employee-attrition-performance)
 
 February, 2023
 <hr>
@@ -172,7 +172,7 @@ This shipment tracking data will instantly answer the next questions:
 <br> 3 - If the importance of the product is high, does it have the highest rating, was it delivered on time?
  </p>
 
-[Dataset reference] (https://www.kaggle.com/prachi13/customer-analytics)
+[Dataset reference](https://www.kaggle.com/prachi13/customer-analytics)
 
 February, 2023
 <hr>
