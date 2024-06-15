@@ -41,7 +41,7 @@ This project showcases a comprehensive Data Analyst portfolio that leverages a v
 
 <br> <strong> 1. Data Collection </strong>: Downloading the marathon data from online sources.
 <br> <strong> 2. Data Cleaning : </strong>Utilizing Python and Excel to clean and preprocess the data, addressing issues such as missing values, incorrect data entries, and ensuring data consistency.
-<br> <strong> 3. Data Analysis: </strong>Performing exploratory data analysis (EDA) using Python and SQL to uncover patterns, trends, and insights from the dataset.
+<br> <strong> 3. Data Analysis: </strong>Performing exploratory data analysis (EDA) using Python [Link to Python Code]() and SQL[Link to SQL queries]() to uncover patterns, trends, and insights from the dataset.
 <br> <strong> 4. Data Visualization: </strong>Creating comprehensive visualizations using Looker to illustrate key findings and make the data more accessible and understandable.
 <br> <strong> 5. Reporting: </strong>Compiling the analysis and visualizations into a coherent report or dashboard that highlights the main insights and conclusions from the study.
 
