@@ -31,11 +31,44 @@ Hello everyone! My name is Karyna Zubko.
 # My Past Projects
 <hr>
 
+### [Looker Dashboard: Ultra Marathon Finishers](https://lookerstudio.google.com/reporting/e5837fa5-1b7f-4136-a3af-a0d339000e15/page/ikM3D)
+
+<em> 
+This project showcases a comprehensive Data Analyst portfolio that leverages a variety of tools including Excel, Python, SQL, and Looker. The primary objective is to download, clean, and visualize data related to an ultra marathon event, providing valuable insights through detailed analysis and graphical representations.
+
+ 
+<br> Project Workflow: 
+
+<br> <strong> 1. Data Collection </strong>: Downloading the marathon data from online sources.
+<br> <strong> 2. Data Cleaning : </strong>Utilizing Python and Excel to clean and preprocess the data, addressing issues such as missing values, incorrect data entries, and ensuring data consistency.
+<br> <strong> 3. Data Analysis: </strong>Performing exploratory data analysis (EDA) using Python and SQL to uncover patterns, trends, and insights from the dataset.
+<br> <strong> 4. Data Visualization: </strong>Creating comprehensive visualizations using Looker to illustrate key findings and make the data more accessible and understandable.
+<br> <strong> 5. Reporting: </strong>Compiling the analysis and visualizations into a coherent report or dashboard that highlights the main insights and conclusions from the study.
+
+<br> Conclusion:
+
+This project not only demonstrates the technical skills required for data analysis but also provides practical insights into ultra marathon performance. Stay tuned for the subsequent project on the 100-mile ultra marathon, where even more in-depth analysis will be conducted.
+
+<br> Key Skills:
+
+Data cleaning and preprocessing, 
+Data analysis and manipulation,
+SQL querying,
+Data visualization,
+Dashboard creation.
+</p>
+
+[Dataset reference](https://ultrasignup.com/results_event.aspx?did=102259)
+
+July, 2024
+<hr>
+
 ### [Tableau Dashboard: Amazon Prime Video](https://public.tableau.com/app/profile/karyna5596/viz/AmazonPrimeVideo_16910027884160/Dashboard1)
 
 
-<p>
+<em> 
 The data visualized using Tableau shows us the main information about the sales process in 4 regions. You can easily switch the region and work with the data brought to it. The following calculations were applied:
+<em> 
   
 <br> 1. <em> Understanding what content is available in different countries.
 <br>
