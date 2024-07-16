@@ -6,7 +6,7 @@ Hello everyone! My name is Karyna Zubko.
 
 
 
-<p> I am a Business Intelligence & Data Analyst, experienced in prop-tech and media product analysis. Feel free to explore my portfolio to overview more projects. I am passionate about data and knowledge about how things work, whether that be studying and researching business metrics, data leveraging techniques, and machine learning methods. </p>
+<p> I am a certified Business Intelligence and Product Analyst with expertise in analyzing Product and Finance data, coming from Prop-tech and Media products. Feel free to explore my portfolio to overview more projects. I am passionate about data and knowledge about how things work, whether that be studying and researching business metrics, data leveraging techniques, and machine learning methods. </p>
 
 
 
@@ -25,7 +25,7 @@ Hello everyone! My name is Karyna Zubko.
 ### My Professional Experience 
 <p align="left">
 <a href="https://www.linkedin.com/in/karina-zubko/">LinkedIn</a>
-  <p>For the past 3.5 years I have been working with the data in Casafari. I was able to get much experience in whole data life cycle, Market Research, SWOT analysis, dashboard creation, public business presentation, and business communication. Much of my work was centered around working with information to find critical cases that allow us to get new opportunities or avoid pitfalls.</p>
+  <p>I am a certified Business Intelligence Developer with experience in analyzing Product and Finance data. Focused on leveraging data-driven insights to drive strategic decision-making and optimize business performance, I excel at transforming numbers into actionable insights. Proficient in documentation and fostering cross-team communication, I facilitate efficient collaboration and alignment on project objectives. Committed to driving innovation, I deliver actionable insights that empower stakeholders to make informed decisions and achieve measurable business outcomes..</p>
 
 
 # My Past Projects
