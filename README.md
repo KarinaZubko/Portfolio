@@ -31,6 +31,39 @@ Hello everyone! My name is Karyna Zubko.
 # My Past Projects
 <hr>
 
+### [Tableau Dashboard: App Trial2Paid Analysis](https://public.tableau.com/app/profile/karyna5596/viz/Femia/Main#1)
+
+<em> 
+We calculated and analyzed the Trial2Paid metric - conversion from trial to payment. In particular, to cover the following issues:
+- Calculated Trial2Paid in different segments, identified segments that are more likely to convert to payment.
+- Calculated the share of trials that are canceled manually by users.
+- Analyzed the day after the start of the trial when the user most often canceled.
+ 
+<br> Project Workflow: 
+
+<br> <strong> 1. Data Cleaning </strong>: Finding outliers and value ranges for each column.
+<br> <strong> 2. Data Processing </strong>: Utilizing Python and Excel to clean and preprocess the data, splitting column values to get the additional data (prices, tariff duration, net revenue, discount revenue), and checking anomaly values.
+<br> <strong> 3. Measures and Visualization </strong>: Using Tableau I created measures that calculated Trial2Paid conversions based on the business requirements, added cahrts and heat map that helps to identify user segments. It has highlighted the crucial points influenced by Trial2Paid User conversions and for the further hypothesis to increase it.
+<br> <strong> 4. Reporting: </strong>
+
+<br> Conclusion:
+
+The share of trials that users cancel manually is 30.46%, which amounts to 3,046 users (2024 data). Most often, users cancel trials on the 2nd day after the start of the trial period.
+But there are also cases when users cancel the trial the next day. For the given period, this is 671 users. And only 53 users (0.0053%) use 29 days of the trial before manually canceling it through the subscription settings.
+
+<br> Key Skills:
+
+Tableau
+Product Data Analysis
+Conversion Metrics
+Data Visualisations
+</p>
+
+[Dataset provided by outside stakeholder]
+
+July, 2024
+<hr>
+
 ### [Looker Dashboard: Ultra Marathon Finishers](https://lookerstudio.google.com/reporting/e5837fa5-1b7f-4136-a3af-a0d339000e15/page/ikM3D)
 
 <em> 
