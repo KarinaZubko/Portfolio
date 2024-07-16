@@ -25,7 +25,7 @@ Hello everyone! My name is Karyna Zubko.
 ### My Professional Experience 
 <p align="left">
 <a href="https://www.linkedin.com/in/karina-zubko/">LinkedIn</a>
-  <p>For the past 2.5 years I have been working with the data in Casafari. I was able to get much experience in whole data life cycle, Market Research, SWOT analysis, dashboard creation, public business presentation, and business communication. Much of my work was centered around working with information to find critical cases that allow us to get new opportunities or avoid pitfalls.</p>
+  <p>For the past 3.5 years I have been working with the data in Casafari. I was able to get much experience in whole data life cycle, Market Research, SWOT analysis, dashboard creation, public business presentation, and business communication. Much of my work was centered around working with information to find critical cases that allow us to get new opportunities or avoid pitfalls.</p>
 
 
 # My Past Projects
