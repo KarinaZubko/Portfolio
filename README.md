@@ -25,7 +25,7 @@ Hello everyone! My name is Karyna Zubko.
 ### My Professional Experience 
 <p align="left">
 <a href="https://www.linkedin.com/in/karina-zubko/">LinkedIn</a>
-  <p>I am a certified Business Intelligence Developer with experience in analyzing Product and Finance data. Focused on leveraging data-driven insights to drive strategic decision-making and optimize business performance, I excel at transforming numbers into actionable insights. Proficient in documentation and fostering cross-team communication, I facilitate efficient collaboration and alignment on project objectives. Committed to driving innovation, I deliver actionable insights that empower stakeholders to make informed decisions and achieve measurable business outcomes..</p>
+  <p> Certified Business Intelligence and Product Analyst with 4 years of experience turning data into actionable insights. Skilled in analyzing Product and Finance data to optimize performance and drive strategic decisions. I excel in bridging teams through clear communication and delivering data-driven solutions that achieve measurable results. Work in real estate, finance, e-commerce, and user behavior data domains.</p>
 
 
 # My Past Projects
