@@ -31,7 +31,7 @@ Hello everyone! My name is Karyna Zubko.
 # My Past Projects
 <hr>
 
-### [Tableau Dashboard: App Trial2Paid Analysis](https://public.tableau.com/app/profile/karyna5596/viz/Femia/Main#1)
+### [Tableau Dashboard: App Trial2Paid Analysis](https://public.tableau.com/app/profile/karyna5596/viz/FemiaDashboard/Main)
 
 <em> 
 We calculated and analyzed the Trial2Paid metric - conversion from trial to payment. In particular, to cover the following issues:
